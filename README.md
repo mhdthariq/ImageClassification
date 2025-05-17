@@ -133,6 +133,6 @@ For a full list of dependencies, see `requirements.txt`.
 
 ## Acknowledgements
 
-- Intel for providing the dataset
+- *Puneet Bansal* for providing the dataset
 - Kaggle for hosting the dataset
 - Dicoding Indonesia for the course on Machine Learning Development
